@@ -19,7 +19,7 @@ You have to enable [Google Drive API V3](https://console.developers.google.com/a
 Clone the repository:
 
 ```
-git clone https://github.com/zume2020/Telegram-bot-Google-Drive.git
+git clone https://github.com/pheonixion/Telegram-bot-Google-Drive.git
 cd Telegram-bot-Google-Drive
 ```
 
